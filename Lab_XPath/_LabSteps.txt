@@ -53,7 +53,7 @@ echo htmlspecialchars($pageContent);
 ?>
 
 
-1-2 執行試用 getNews.php。
+2-2 執行試用 getNews.php。
 
 
 
